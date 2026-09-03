@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-02 11:54 IST
+**Updated:** 2026-09-03 11:51 IST
 
-1. **[Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)** — runs anywhere. uses anything
-2. **[Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
-3. **[THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-4. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
-5. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-6. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
-7. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-8. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
-9. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-10. **[handsomestWei /patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+1. **[fmtlib /fmt](https://github.com/fmtlib/fmt)** — A modern formatting library
+2. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+3. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+4. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+5. **[sngyai /Sequoia-X](https://github.com/sngyai/Sequoia-X)** — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+6. **[ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents
+7. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+8. **[superlinked /sie](https://github.com/superlinked/sie)** — Open-source inference server and production cluster for all the models your agent needs.
+9. **[pacifio /atlas](https://github.com/pacifio/atlas)** — Source control for agents. Use multiple coding agents, track their changes and query them in one place
+10. **[zyronon /TypeWords](https://github.com/zyronon/TypeWords)** — Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 <!-- TRENDING-END -->
+
 
 
 
