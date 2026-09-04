@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-03 11:51 IST
+**Updated:** 2026-09-04 11:49 IST
 
 1. **[fmtlib /fmt](https://github.com/fmtlib/fmt)** — A modern formatting library
-2. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-3. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-4. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-5. **[sngyai /Sequoia-X](https://github.com/sngyai/Sequoia-X)** — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
-6. **[ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents
-7. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-8. **[superlinked /sie](https://github.com/superlinked/sie)** — Open-source inference server and production cluster for all the models your agent needs.
-9. **[pacifio /atlas](https://github.com/pacifio/atlas)** — Source control for agents. Use multiple coding agents, track their changes and query them in one place
-10. **[zyronon /TypeWords](https://github.com/zyronon/TypeWords)** — Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+3. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+4. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+5. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+6. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+7. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+8. **[blader /humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
+9. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+10. **[averygan /reclip](https://github.com/averygan/reclip)** — Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 <!-- TRENDING-END -->
+
 
 
 
