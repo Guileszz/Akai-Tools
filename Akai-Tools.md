@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-07 11:52 IST
+**Updated:** 2026-09-08 11:50 IST
 
-1. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-4. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-5. **[openai /skills](https://github.com/openai/skills)** — Skills Catalog for Codex
-6. **[anomalyco /opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
-7. **[blader /humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
-8. **[llvm /llvm-project](https://github.com/llvm/llvm-project)** — The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-9. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-10. **[ruvnet /ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+1. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+2. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
+3. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+4. **[jo-inc /camofox-browser](https://github.com/jo-inc/camofox-browser)** — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+5. **[MoonTechLab /LunaTV](https://github.com/MoonTechLab/LunaTV)** — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+6. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+7. **[coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+8. **[The-Swarm-Corporation /AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** — Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+9. **[BraveOPotato /FckSignups](https://github.com/BraveOPotato/FckSignups)** — A list of tools that are open-source, in-browser, and require no-signups!
+10. **[bytedance /deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 <!-- TRENDING-END -->
+
 
 
 
