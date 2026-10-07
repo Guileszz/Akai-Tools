@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-06 18:37 IST
+**Updated:** 2026-10-07 18:32 IST
 
-1. **[tester-army /e2e](https://github.com/tester-army/e2e)** — Next generation e2e testing framework for web and mobile apps.
+1. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
 2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — Give your agent CAD superpowers.
-4. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
-5. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-6. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-7. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-8. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
-9. **[deepseek-ai /DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** — DeepGEMM: clean and efficient BLAS kernel library on GPU
-10. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+3. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
+4. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+5. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+7. **[EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)** — A native, user-mode, multi-process, graphical debugger.
+8. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+9. **[manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+10. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 <!-- TRENDING-END -->
+
 
 
 
